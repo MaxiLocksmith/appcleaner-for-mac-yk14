@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS automatic Script: file-archiving & window-management, the #1 script. Includes file-archiving and window-management for a
 
 
 
